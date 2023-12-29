@@ -6,3 +6,10 @@ the OUTPUT(only HTML code) will be like:
 
 
 ![simplecalculatoronlyhtml](https://github.com/Sumitpatel29/mycalculatorproject/assets/62977218/a02ad0f6-8c4f-4f01-8e3e-f1279c7f4f9c)
+
+
+##step 2: get the designing part from design.css file 
+! YOU DON'T NEED TO LINK BOTH BECAUSE I ALREADY DID IT FOR YOU !
+
+##after executing css part successfully u cen get the designed simple calculator and the OUTPUT will be like:
+  

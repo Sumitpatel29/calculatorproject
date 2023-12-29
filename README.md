@@ -5,3 +5,4 @@ after executing it successfully u can get the basic skeleton of the calculator w
 the OUTPUT(only HTML code) will be like:
 
 
+![simplecalculatoronlyhtml](https://github.com/Sumitpatel29/mycalculatorproject/assets/62977218/a02ad0f6-8c4f-4f01-8e3e-f1279c7f4f9c)
